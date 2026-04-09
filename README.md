@@ -81,6 +81,7 @@ algorithm/
 |김혜진|llmeajinll|javascript, java|실버2|
 |김현우|muzimzz|python, java|골드5|
 |주유나|YounaJ00|python|Unrated|
+|정윤서|jys0615|python|실버2|
 
 
 > 참여 시 위 테이블에 본인 정보를 추가해주세요.
