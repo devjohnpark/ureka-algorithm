@@ -77,6 +77,7 @@ algorithm/
 |------|--------|-------------|-------------
 |임장원|magnetogithub|java|골드4|
 |김가원|wongakim99|python|브론즈2|
+|김혜진|llmeajinll|javascript, java|실버2|
 
 > 참여 시 위 테이블에 본인 정보를 추가해주세요.
 
