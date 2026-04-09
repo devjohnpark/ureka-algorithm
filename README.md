@@ -85,6 +85,9 @@ algorithm/
 |정종찬|milllo-dev|java|브론즈5|
 |설진우|jerry7133|java|실버1|
 |최재웅|yongmaru789|python|실버1|
+|허건|HUHGEON|java|실버2|
+
+
 
 
 > 참여 시 위 테이블에 본인 정보를 추가해주세요.
