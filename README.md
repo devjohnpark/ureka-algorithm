@@ -86,6 +86,7 @@ algorithm/
 |설진우|jerry7133|java|실버1|
 |최재웅|yongmaru789|python|실버1|
 |허건|HUHGEON|java|실버2|
+|소서아|jayakeie|java|Unrated|
 
 
 
